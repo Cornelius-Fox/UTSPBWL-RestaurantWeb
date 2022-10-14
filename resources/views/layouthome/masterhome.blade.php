@@ -36,7 +36,7 @@
         </div>
     </div>
         <div class="row">
-            <img src="/img/Lemon Squash.jpg" width="350px" height="230px" />
+            <img src="/img/Anggur Merah.jpg" width="350px" height="230px" />
         </div>
     </div>
 

@@ -105,6 +105,39 @@
         <p>Sup Gangan Lembah Kuning</p>
     </div>
 
+    <h3 class="text-center">Hidangan Minum</h3>
+
+    <div class="coloumn">
+        <div class="row">
+            <img src="/img/Anggur Merah.jpg" alt="s2" width="350px" height="230px" />
+            <p>Anggur Merah</p>
+        </div>
+    </div>
+    <div class="row">
+        <img src="/img/Whiskey.jpg" alt="s2" width="350px" height="230px" />
+        <p>Whiskey</p>
+    </div>
+    <div class="row">
+        <img src="/img/Bir Hitam.jpg" alt="s2" width="350px" height="230px" />
+        <p>Bir Hitam</p>
+    </div>
+
+
+    <div class="coloumn1">
+        <div class="row">
+            <img src="/img/Anggur Putih Kering.jpg" alt="s2" width="350px" height="230px" />
+            <p>Anggur Putih Kering </p>
+        </div>
+    </div>
+    <div class="row">
+        <img src="/img/Jus Cranberry.jpg" alt="s2" width="350px" height="230px" />
+        <p>Jus Cranberry</p>
+    </div>
+    <div class="row">
+        <img src="/img/Club Soda.jpg" alt="s2" width="350px" height="230px" />
+        <p>Club Soda</p>
+    </div>
+
 
     </footer>
 </body>
